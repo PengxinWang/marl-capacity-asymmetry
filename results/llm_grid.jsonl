@@ -1,0 +1,16 @@
+{"A": "0.5B", "B": "0.5B", "team_acc": 0.258, "A_alone": 0.272}
+{"A": "1.5B", "B": "0.5B", "team_acc": 0.454, "A_alone": 0.48}
+{"A": "3B", "B": "0.5B", "team_acc": 0.544, "A_alone": 0.614}
+{"A": "7B", "B": "0.5B", "team_acc": 0.644, "A_alone": 0.71}
+{"A": "0.5B", "B": "1.5B", "team_acc": 0.274, "A_alone": 0.272}
+{"A": "1.5B", "B": "1.5B", "team_acc": 0.456, "A_alone": 0.48}
+{"A": "3B", "B": "1.5B", "team_acc": 0.55, "A_alone": 0.614}
+{"A": "7B", "B": "1.5B", "team_acc": 0.64, "A_alone": 0.71}
+{"A": "0.5B", "B": "3B", "team_acc": 0.45, "A_alone": 0.272}
+{"A": "1.5B", "B": "3B", "team_acc": 0.556, "A_alone": 0.48}
+{"A": "3B", "B": "3B", "team_acc": 0.64, "A_alone": 0.614}
+{"A": "7B", "B": "3B", "team_acc": 0.73, "A_alone": 0.71}
+{"A": "0.5B", "B": "7B", "team_acc": 0.496, "A_alone": 0.272}
+{"A": "1.5B", "B": "7B", "team_acc": 0.576, "A_alone": 0.48}
+{"A": "3B", "B": "7B", "team_acc": 0.662, "A_alone": 0.614}
+{"A": "7B", "B": "7B", "team_acc": 0.738, "A_alone": 0.71}
